@@ -2,7 +2,7 @@
 
 ## Contributing to The Other Radio
 
-When contributing, please follow the [Code of Conduct](/blob/main/code-of-conduct).
+When contributing, please follow the [Code of Conduct](/code-of-conduct).
 
 ### Issues
 
