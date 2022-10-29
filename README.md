@@ -2,7 +2,7 @@
 
 ## Contributing to The Other Radio
 
-When contributing, please follow the [Code of Conduct](code-of-conduct.md).
+When contributing, please follow the [Code of Conduct](fedsa/contributing/blob/main/code-of-conduct).
 
 ### Issues
 
